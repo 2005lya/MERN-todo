@@ -1,1 +1,1 @@
-export const BASE_URL = "https://7things-api.onrender.com"
+export const BASE_URL = "https://mero-todo-api.onrender.com"

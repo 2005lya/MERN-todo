@@ -1,4 +1,4 @@
-const API_BASE = 'https://7things-api.onrender.com/todo';
+const API_BASE = 'https://mero-todo-api.onrender.com';
 
 function TodoItem(props){
     const {id, title, completed, setItems} = props;
